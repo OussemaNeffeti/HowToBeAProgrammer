@@ -1,4 +1,4 @@
-# How to be a Programmer: Community Version
+ How to be a Programmer: Community Version
 [//]: # (Version:1.1.0)
 Robert L. Read with Community
 
